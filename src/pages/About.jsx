@@ -7,21 +7,24 @@ const About = () => {
       id: 1,
       name: "John Doe",
       role: "CEO & Founder",
-      image: "https://via.placeholder.com/150?text=John",
+      image:
+        "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?semt=ais_hybrid&w=740&q=80",
       description: "Visionary leader with 10+ years in ecommerce",
     },
     {
       id: 2,
       name: "Jane Smith",
       role: "CTO",
-      image: "https://via.placeholder.com/150?text=Jane",
+      image:
+        "https://t3.ftcdn.net/jpg/03/22/53/38/360_F_322533850_Lz5JL2K0nVqL48gjCiRLSa2ssxpdfyer.jpg",
       description: "Tech expert specializing in React and Node.js",
     },
     {
       id: 3,
-      name: "Mike Johnson",
+      name: "Nadia Emilia Johnson",
       role: "Product Manager",
-      image: "https://via.placeholder.com/150?text=Mike",
+      image:
+        "https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ=",
       description: "Passionate about creating amazing user experiences",
     },
   ];

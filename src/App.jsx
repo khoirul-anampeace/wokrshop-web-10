@@ -15,7 +15,8 @@ export const productsData = [
     name: "Laptop Gaming",
     price: 15000000,
     category: "Electronics",
-    image: "https://via.placeholder.com/300x200?text=Laptop+Gaming",
+    image:
+      "https://exceldisc.com/_next/image?url=https%3A%2F%2Fapiv2.exceldisc.com%2Fmedia%2F48762%2Flenovo-legion-pro-9-16irx9-2024-gaming-laptop-2tb-ssd.jpg&w=3840&q=75",
     description: "High-performance gaming laptop with RTX graphics",
     features: ["16GB RAM", "1TB SSD", "RTX 4060", "Intel i7"],
   },
@@ -24,7 +25,8 @@ export const productsData = [
     name: "Smartphone",
     price: 5000000,
     category: "Electronics",
-    image: "https://via.placeholder.com/300x200?text=Smartphone",
+    image:
+      "https://images.samsung.com/id/smartphones/galaxy-z-flip7/buy/kv_animated_MO.png",
     description: "Latest smartphone with advanced camera system",
     features: ["128GB Storage", "5G", "Triple Camera", "AMOLED Display"],
   },
@@ -33,7 +35,8 @@ export const productsData = [
     name: "Headphones",
     price: 800000,
     category: "Electronics",
-    image: "https://via.placeholder.com/300x200?text=Headphones",
+    image:
+      "https://www.sony.co.id/image/fb0ca0319f3f6fc16dfc08f6ff1cdb38?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320",
     description: "Wireless noise-cancelling headphones",
     features: [
       "Bluetooth 5.0",
@@ -47,7 +50,8 @@ export const productsData = [
     name: "Coffee Maker",
     price: 1200000,
     category: "Home",
-    image: "https://via.placeholder.com/300x200?text=Coffee+Maker",
+    image:
+      "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1713289861/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Best-Espresso-Machines-0424",
     description: "Automatic coffee maker with timer",
     features: ["Programmable", "12-cup", "Auto Shut-off", "Water Filter"],
   },
